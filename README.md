@@ -1,7 +1,7 @@
 # Calico
 <img src="http://docs.projectcalico.org/images/felix.png" width="100" height="100">
 
-Calico is a widely adopted, battle-tested open source networking and network security solution for Kubernetes, virtual machines, and bare-metal workloads.
+Calico is a widely adopted, battle-tested open-source networking and network security solution for Kubernetes, virtual machines, and bare-metal workloads.
 Calico provides two major services for Cloud Native applications:
 
 - Network connectivity between workloads.
